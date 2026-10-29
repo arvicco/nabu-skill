@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nabu-skill",
+  "owner": {
+    "name": "Ar Vicco",
+    "url": "https://github.com/arvicco"
+  },
+  "metadata": {
+    "description": "The Nabu agent skill: driving a local library of ancient texts through its read-only MCP server."
+  },
+  "plugins": [
+    {
+      "name": "nabu",
+      "source": "./",
+      "description": "Agent skill for Nabu, a local, read-only library of ancient-text corpora: install, the 14 MCP tools, license-class etiquette, honest limits.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://arvicco.github.io/nabu/"
+    }
+  ]
+}
