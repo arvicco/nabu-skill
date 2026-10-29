@@ -1,0 +1,22 @@
+{
+  "name": "nabu",
+  "version": "1.0.0",
+  "description": "Agent skill for Nabu, a local, read-only library of ancient-text corpora: how to install Nabu and its MCP server, drive its 14 tools (search, read by urn, concordance, alignment, dictionaries, etymology, parallels, places, cuneiform signs), and quote within each text's license class.",
+  "author": {
+    "name": "Ar Vicco",
+    "url": "https://github.com/arvicco"
+  },
+  "homepage": "https://arvicco.github.io/nabu/",
+  "repository": "https://github.com/arvicco/nabu-skill",
+  "license": "MIT",
+  "keywords": [
+    "ancient-texts",
+    "classics",
+    "digital-humanities",
+    "philology",
+    "assyriology",
+    "biblical-studies",
+    "historical-linguistics",
+    "mcp"
+  ]
+}
