@@ -1,0 +1,12 @@
+{
+  "name": "nabu",
+  "version": "1.0.0",
+  "description": "Read-only research library of ancient texts over MCP: full-text and lemma search, passages by citation URN, concordance, Greek/Latin dictionaries, cross-witness Bible alignment, etymology — every result stamped with its source's license class.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "nabu": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "ghcr.io/arvicco/nabu-demo:1.0.0"]
+    }
+  }
+}
