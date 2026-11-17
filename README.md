@@ -58,6 +58,12 @@ Claude Code, as a plugin from this repository's marketplace:
 /plugin install nabu@nabu-skill
 ```
 
+Antigravity, as a plugin straight from this repository:
+
+```
+agy plugin install https://github.com/arvicco/nabu-skill
+```
+
 Any Agent Skills client, with the `skills` CLI:
 
 ```
