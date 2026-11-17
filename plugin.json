@@ -1,0 +1,28 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "nabu",
+  "displayName": "Nabu — ancient-text library",
+  "version": "1.0.0",
+  "description": "Read-only research library of ancient texts over MCP: full-text and lemma search, passages by citation URN, concordance, Greek/Latin dictionaries, cross-witness Bible alignment, etymology — every result stamped with its source's license class.",
+  "author": {
+    "name": "Ar Vicco",
+    "url": "https://github.com/arvicco"
+  },
+  "homepage": "https://arvicco.github.io/nabu/",
+  "repository": "https://github.com/arvicco/nabu-skill",
+  "license": "MIT",
+  "logo": ".claude-plugin/icon.png",
+  "keywords": [
+    "ancient-texts",
+    "classics",
+    "digital-humanities",
+    "philology",
+    "biblical-studies",
+    "mcp"
+  ],
+  "suggestedPrompts": [
+    "Search the Greek New Testament for ἀγάπη and show me the hits with their citations",
+    "Show Genesis 1:1 in the Hebrew Bible and align it across the witnesses",
+    "Define λόγος from the LSJ and give me concordance lines"
+  ]
+}
