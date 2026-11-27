@@ -6,7 +6,7 @@
   "mcpServers": {
     "nabu": {
       "command": "docker",
-      "args": ["run", "-i", "--rm", "ghcr.io/arvicco/nabu-demo:1.0.0"]
+      "args": ["run", "-i", "--rm", "ghcr.io/arvicco/nabu-ancient-corpora:1.9.0"]
     }
   }
 }
